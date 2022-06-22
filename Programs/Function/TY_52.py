@@ -1,0 +1,1 @@
+# check wether a numbr is prime or not

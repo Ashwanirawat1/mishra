@@ -1,0 +1,1 @@
+# write a function which returns the sum of lengths of all the iterables

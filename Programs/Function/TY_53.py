@@ -1,0 +1,1 @@
+# how to check if given number is fibonacci number
